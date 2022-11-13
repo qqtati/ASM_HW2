@@ -25,7 +25,7 @@
 - После компиляции создался файл first.s
 ---
 
-![four_third](4_3.png)
+![four_third](grades/4_3.png)
 
 - Использованы аргументы командой строки и ручное редактирование, получился файл second.s
 
@@ -39,7 +39,7 @@
 ![compilation3](pictures/third_compilation.png)
 
 ---
-![4_5](pictures/4_5.png)
+![4_5](grades/4_5.png)
 
 **Тесты**
 
